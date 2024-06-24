@@ -1,0 +1,10 @@
+git --version = for checking version???
+git clone (copied link) = to create git hub clone
+cd sample =to open the repository folder in git???
+git status =to check opened folder status
+git add (filename.extension) =add the file to the git bash
+git commit -m "added" =to add the file in to the repository
+git config --global user.email "mail" = to add email to bash
+git config --global user.email = to check mail
+git config --global user.name "uname" = to add name to bash
+git config --global user.name = to check u name
