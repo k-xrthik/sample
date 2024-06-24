@@ -1,0 +1,12 @@
+Git is a version control system that allows developers to track changes in their source code, collaborate with others, and manage different versions of their project. It is a free and open-source tool that has become the de facto standard for software development and version control.
+
+Key Features of Git:
+
+Version Control: Git tracks changes made to files and allows developers to revert to previous versions if needed.
+Distributed System: Git is a distributed system, meaning that each developer has a local copy of the entire project, making it easy to work offline and collaborate with others.
+Branching: Git allows developers to create branches, which enable them to work on different features or versions of a project simultaneously.
+Merging: Git provides tools for merging changes from different branches, making it easy to integrate changes from multiple developers.
+Collaboration: Git enables multiple developers to collaborate on a project, with features like pull requests and code reviews.
+How Git Works:
+
+Initialization: A Git repository (or “repo”) is cre
